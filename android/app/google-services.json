@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492944679995",
+    "firebase_url": "https://quiz-master-flutter.firebaseio.com",
+    "project_id": "quiz-master-flutter",
+    "storage_bucket": "quiz-master-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492944679995:android:ae8db4692f8320c69fe81e",
+        "android_client_info": {
+          "package_name": "com.quizmaster.jt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492944679995-u36q2josvh5vu9f5mj34nm5dn6hmpeic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSM33esYhDQ2abAoLPY6bfZeNPXN68zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492944679995-u36q2josvh5vu9f5mj34nm5dn6hmpeic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
