@@ -6,6 +6,10 @@
 </a>
 
 <div align="center">
+	Original Source code taken from: https://github.com/lohanidamodar/flutter_opentrivia (https://www.facebook.com/lohanidamodar)
+</div>
+
+<div align="center">
   <img src="assets/images/icon.png" width=200> 
 </div>
 
