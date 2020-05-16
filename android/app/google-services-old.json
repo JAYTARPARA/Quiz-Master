@@ -8,38 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:492944679995:android:6b5f2a589895b6ef9fe81e",
-        "android_client_info": {
-          "package_name": "app.quizmaster.jt"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "492944679995-u36q2josvh5vu9f5mj34nm5dn6hmpeic.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBqSM33esYhDQ2abAoLPY6bfZeNPXN68zE"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "492944679995-u36q2josvh5vu9f5mj34nm5dn6hmpeic.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:492944679995:android:ae8db4692f8320c69fe81e",
         "android_client_info": {
-          "package_name": "com.quizmaster.jt"
+          "package_name": "app.quizmaster.jt"
         }
       },
       "oauth_client": [
